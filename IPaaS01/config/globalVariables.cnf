@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IDataXMLCoder version="1.0">
+  <record javaclass="com.wm.data.ISMemDataImpl">
+    <array name="globalVariables" type="record" depth="1">
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">ControlPlane_BaseUrl</value>
+        <value name="value">https://presalesglobacpdev.apicp-az-eu.webmethods.io</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">ControlPlane_HeartBeatSynchIntervalSeconds</value>
+        <value name="value">300</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">ControlPlane_Region</value>
+        <value name="value">apac</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">KongKonnect_BaseUrl</value>
+        <value name="value">https://us.api.konghq.com</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">KongKonnect_ControlPlaneId</value>
+        <value name="value">4bda7e7f-610a-4215-8252-edddcd373f5e</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">KongKonnect_Token</value>
+        <value name="value">gvhandle.KongKonnect_Token</value>
+        <value name="isSecure">true</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">KongKonnect_HostUiUrl</value>
+        <value name="value">https://cloud.konghq.com/us/gateway-manager</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">KongKonnect_Location</value>
+        <value name="value">Jakarta</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">KongKonnect_kanalyticsPath</value>
+        <value name="value">/kanalytics/v4/explore</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">KongKonnect_kanalyticsTimeRange</value>
+        <value name="value">15m</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">KongKonnect_NameOnControlPlane</value>
+        <value name="value">KongKonnect 01</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">KongKonnect_DeploymentType</value>
+        <value name="value">PUBLIC_CLOUD</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">AgentScheduler_S3_S5</value>
+        <value name="value"></value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">AgentScheduler_S4</value>
+        <value name="value"></value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">ControlPlane_Username</value>
+        <value name="value">partneruser</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">ControlPlane_Password</value>
+        <value name="value">gvhandle.ControlPlane_Password</value>
+        <value name="isSecure">true</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">ControlPlane_KongRuntimeType</value>
+        <value name="value">7a9e0625-3217-4b36-a236-31a51241f6af</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">Kong_ControlPlaneId</value>
+        <value name="value">4bda7e7f-610a-4215-8252-edddcd373f5e</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">Kong_HostUiUrl</value>
+        <value name="value">https://onprem.konghq.com/us/gateway-manager</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">Kong_Location</value>
+        <value name="value">Tokyo</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">Kong_NameOnControlPlane</value>
+        <value name="value">Kong 02</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">Kong_DeploymentType</value>
+        <value name="value">ON_PREMISE</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">ControlPlane_KongRuntimeId</value>
+        <value name="value">9b278768-439c-4f27-bcab-aead65893e44</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">ControlPlane_KongKonnectRuntimeId</value>
+        <value name="value">8ebe3b21-8656-4e4f-9393-2cf0d6021ef5</value>
+        <value name="isSecure">false</value>
+      </record>
+    </array>
+  </record>
+</IDataXMLCoder>
